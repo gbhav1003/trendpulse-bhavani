@@ -1,0 +1,84 @@
+post_id,title,category,score,num_comments,author,collected_at,engagement,is_popular
+47994012,"Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",technology,11,3,brendanmc6,2026-05-03 12:59:41,0.25,False
+47989883,VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage,technology,1087,513,indrora,2026-05-03 12:59:41,0.47150735294117646,True
+47992338,A network smuggling Starlink tech into Iran to beat internet blackout,technology,156,88,1659447091,2026-05-03 12:59:41,0.5605095541401274,False
+47972481,When Dawkins met Claude – Could this AI be conscious?,technology,23,119,pentestercrab,2026-05-03 12:59:41,4.958333333333333,False
+47992859,Windows API is Successful Cross-Platform API (2024),technology,69,59,phendrenad2,2026-05-03 12:59:41,0.8428571428571429,False
+47991018,Voice-AI-for-Beginners – A curated learning path for developers,technology,70,4,mahimai,2026-05-03 12:59:41,0.056338028169014086,False
+47992802,"AI, Intimacy, and the Data You Never Meant to Share",technology,12,0,victorkulla,2026-05-03 12:59:41,0.0,False
+47994150,Musk's AI told me people were coming to kill me (BBC),technology,5,0,walden789,2026-05-03 12:59:41,0.0,False
+47949066,Show HN: DAC – open-source dashboard as code tool for agents and humans,technology,102,32,karakanb,2026-05-03 12:59:41,0.3106796116504854,False
+47992303,Wyoming celebrates 'nuclear Renaissance' as feds approve license for a reactor,technology,20,1,mooreds,2026-05-03 12:59:41,0.047619047619047616,False
+47985077,Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks,technology,64,10,pplonski86,2026-05-03 12:59:41,0.15384615384615385,False
+47984675,Show HN: Filling PDF forms with AI using client-side tool calling,technology,51,24,nip,2026-05-03 12:59:41,0.46153846153846156,False
+47991981,OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors,technology,21,2,donsupreme,2026-05-03 12:59:41,0.09090909090909091,False
+47984734,Show HN: Browser-based light pollution simulator using real photometric data,technology,37,11,holg,2026-05-03 12:59:41,0.2894736842105263,False
+47977134,The gay jailbreak technique (2025),technology,635,250,bobsmooth,2026-05-03 12:59:41,0.39308176100628933,True
+47991340,The Claude Delusion: Richard Dawkins believes his AI chatbot is conscious,technology,64,91,SwellJoe,2026-05-03 12:59:41,1.4,False
+47987256,AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights,technology,323,171,laurex,2026-05-03 12:59:41,0.5277777777777778,True
+47989824,Pixel Embeddings Beat Vision Encoders for Unified Understanding and Generation,technology,6,0,neehao,2026-05-03 12:59:41,0.0,False
+47977694,Show HN: AI CAD Harness,technology,93,89,zachdive,2026-05-03 12:59:41,0.9468085106382979,False
+47952773,Direct electrochemical black coffee quality appraisal using cyclic voltammetry,technology,60,36,bookofjoe,2026-05-03 12:59:41,0.5901639344262295,False
+47972659,Advanced Quantization Algorithm for LLMs,technology,132,17,lastdong,2026-05-03 12:59:41,0.12781954887218044,False
+47976856,Spotify adds 'Verified' badges to distinguish human artists from AI,technology,272,299,reconnecting,2026-05-03 12:59:41,1.0952380952380953,True
+47967786,Can I disable all data collection from my vehicle?,technology,746,344,Cider9986,2026-05-03 12:59:41,0.4605087014725569,True
+47952181,Copy Fail,technology,1455,509,unsnap_biceps,2026-05-03 12:59:41,0.34958791208791207,True
+47985622,Spirit Airlines canceled all flights and is going out of business,technology,75,43,teleforce,2026-05-03 12:59:41,0.5657894736842105,False
+47989372,Canonical Under Attack,worldnews,61,23,ta988,2026-05-03 12:59:41,0.3709677419354839,False
+47976566,Apocalypse Early Warning System,worldnews,247,121,carlsborg,2026-05-03 12:59:41,0.4879032258064516,True
+47979839,Credit cards are vulnerable to brute force kind attacks,worldnews,236,188,kodbraker,2026-05-03 12:59:41,0.7932489451476793,True
+47986390,"Oil tanker hijacked off Yemen, steers toward Somalia",worldnews,55,83,delichon,2026-05-03 12:59:41,1.4821428571428572,False
+47968982,Snowball Earth may hide a far stranger climate cycle than anyone expected,worldnews,109,62,wglb,2026-05-03 12:59:41,0.5636363636363636,False
+47989931,I Do Not Recommend Bitwarden,worldnews,53,45,maxloh,2026-05-03 12:59:41,0.8333333333333334,False
+47970622,OpenWarp,worldnews,203,147,zero-lab,2026-05-03 12:59:41,0.7205882352941176,True
+47984079,NSA Warned Everyone to Reboot Their Routers,worldnews,33,24,saikatsg,2026-05-03 12:59:41,0.7058823529411765,False
+47961378,I aggregated 28 US Government auction sites into one search,worldnews,301,102,scarsam,2026-05-03 12:59:41,0.33774834437086093,True
+47975472,Show HN: GhostBox – Borrow a disposable little machine from the Global Free Tier,worldnews,123,102,keepamovin,2026-05-03 12:59:41,0.8225806451612904,False
+47957484,Warm Burnout: editor and terminal color scheme,worldnews,71,5,cdrnsf,2026-05-03 12:59:41,0.06944444444444445,False
+47942492,Regression: malware reminder on every read still causes subagent refusals,worldnews,251,147,thomashobohm,2026-05-03 12:59:41,0.5833333333333334,True
+47936264,Warp is now open-source,worldnews,371,118,meetpateltech,2026-05-03 12:59:41,0.3172043010752688,True
+47977450,Flock cameras keep telling police a man who doesn't have a warrant has a warrant,worldnews,190,143,johnbarron,2026-05-03 12:59:41,0.7486910994764397,True
+47901433,Fully Featured Audio DSP Firmware for the Raspberry Pi Pico,worldnews,327,92,BoingBoomTschak,2026-05-03 12:59:41,0.2804878048780488,True
+47981979,A physics engine with incremental rollback for multiplayer games,sports,78,26,BSTRhino,2026-05-03 12:59:41,0.3291139240506329,False
+47987079,Stackless coroutines for gamedev in ~200 lines of C++,sports,13,0,tzury,2026-05-03 12:59:41,0.0,False
+47954074,Show HN: SimDrive – a browser racing game with your phone as the controller:D,sports,18,9,1000xcat,2026-05-03 12:59:41,0.47368421052631576,False
+47965503,I built a Game Boy emulator in F#,sports,341,76,elvis70,2026-05-03 12:59:41,0.2222222222222222,True
+47985271,GameStop Preparing Offer for eBay,sports,82,62,voisin,2026-05-03 12:59:41,0.7469879518072289,False
+47947834,Improving ICU handovers by learning from Scuderia Ferrari F1 team,sports,66,56,embedding-shape,2026-05-03 12:59:41,0.835820895522388,False
+47985742,"GameStop is looking to buy eBay, report says. Both stocks are soaring",sports,5,0,OrvalWintermute,2026-05-03 12:59:41,0.0,False
+47945522,Tell HN: An update from the new Tindie team,sports,80,49,altairprime,2026-05-03 12:59:41,0.6049382716049383,False
+47940389,I won a championship that doesn't exist,sports,232,128,SEJeff,2026-05-03 12:59:41,0.5493562231759657,True
+47904053,Adding a team was the wrong strategic decision,sports,80,27,milkglass,2026-05-03 12:59:41,0.3333333333333333,False
+47900398,Martin Galway's music source files from 1980's Commodore 64 games,sports,198,29,ingve,2026-05-03 12:59:41,0.1457286432160804,True
+47910877,Lessons from building multiplayer browsers,sports,55,18,alejandrohacks,2026-05-03 12:59:41,0.32142857142857145,False
+47976125,Using group theory to explore the space of positional encodings for attention,science,25,0,jxmorris12,2026-05-03 12:59:41,0.0,False
+47977748,New research suggests people can communicate and practice skills while dreaming,science,445,260,XzetaU8,2026-05-03 12:59:41,0.5829596412556054,True
+47957714,Biology is a Burrito: A text- and visual-based journey through a living cell,science,210,31,the-mitr,2026-05-03 12:59:41,0.14691943127962084,True
+47934261,Show HN: Live Sun and Moon Dashboard with NASA Footage,science,222,68,beeswaxpat,2026-05-03 12:59:41,0.30493273542600896,True
+47973547,"SpaceX rocket set for unintentional moon landing – well, a piece of it anyway",science,61,59,beardyw,2026-05-03 12:59:41,0.9516129032258065,False
+47970023,"$500M for Virtual Biology Initiative, Funded by Zuckerbergs",science,37,25,warbaker,2026-05-03 12:59:41,0.6578947368421053,False
+47990708,"Show HN: State of the Art of Coding Models, According to Hacker News Commenters",entertainment,94,49,yunusabd,2026-05-03 12:59:41,0.5157894736842106,False
+47988261,Roblox shares plummet 18% as child safety measures weigh on bookings,entertainment,229,136,1vuio0pswjnm7,2026-05-03 12:59:41,0.591304347826087,True
+47961935,"Show HN: Pollen – distributed WASM runtime, no control plane, single binary",entertainment,115,54,sambigeara,2026-05-03 12:59:41,0.46551724137931033,False
+47989164,"Show HN: Rust library for Undo/Redo using deltas, snapshots or commands",entertainment,17,3,mikolajw,2026-05-03 12:59:41,0.16666666666666666,False
+47967672,Chinese EVs Can Now Project Movies from Their Headlights,entertainment,47,28,mooreds,2026-05-03 12:59:41,0.5833333333333334,False
+47991183,"Meta faces New Mexico trial that could force change to Facebook, other platforms",entertainment,26,0,1659447091,2026-05-03 12:59:41,0.0,False
+47985210,Show HN: Piruetas – A self-hosted diary app I built for my girlfriend,entertainment,61,48,patillacode,2026-05-03 12:59:41,0.7741935483870968,False
+47984614,Show HN: Large Scale Article Extract of Newspapers 1730s-1960s,entertainment,46,18,brettnbutter,2026-05-03 12:59:41,0.3829787234042553,False
+47937033,New mechanical panoramic film camera from Jeff Bridges,entertainment,219,108,armadsen,2026-05-03 12:59:41,0.4909090909090909,True
+47972511,"Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",entertainment,535,161,sleepingNomad,2026-05-03 12:59:41,0.3003731343283582,True
+47983485,"Show HN: Stop playing my matchstick puzzles, start building your own in seconds",entertainment,34,28,trangram,2026-05-03 12:59:41,0.8,False
+47965060,How Mark Klein told the EFF about Room 641A [book excerpt],entertainment,699,249,the-mitr,2026-05-03 12:59:41,0.3557142857142857,True
+47973559,Show HN: Site Mogging,entertainment,66,74,jilles,2026-05-03 12:59:41,1.1044776119402986,False
+47972888,Show HN: Perfect Bluetooth MIDI for Windows,entertainment,104,34,mayerwin,2026-05-03 12:59:41,0.3238095238095238,False
+47972158,Music with Lyrics Interferes with Cognitive Tasks (2023),entertainment,30,29,XzetaU8,2026-05-03 12:59:41,0.9354838709677419,False
+47977659,Show HN: My Private GitHub on Postgres,entertainment,41,23,calebhwin,2026-05-03 12:59:41,0.5476190476190477,False
+47936312,Show HN: Drive any macOS app in the background without stealing the cursor,entertainment,189,41,frabonacci,2026-05-03 12:59:41,0.21578947368421053,True
+47968112,Show HN: Pu.sh – a full coding-agent harness in 400 lines of shell,entertainment,89,27,nahimn,2026-05-03 12:59:41,0.3,False
+47935246,"Show HN: Rocky – Rust SQL engine with branches, replay, column lineage",entertainment,120,48,hugocorreia90,2026-05-03 12:59:41,0.39669421487603307,False
+47970690,Show HN: Winpodx – run Windows apps on Linux as native windows,entertainment,96,47,kernalix7,2026-05-03 12:59:41,0.4845360824742268,False
+47945955,Show HN: Rip.so – a graveyard for dead internet things,entertainment,184,117,bozdemir,2026-05-03 12:59:41,0.6324324324324324,True
+47965161,Show HN: TRiP – a complete transformer engine in C built from scratch just by me,entertainment,38,6,carlovalenti,2026-05-03 12:59:41,0.15384615384615385,False
+47920787,Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview,entertainment,392,147,GodelNumbering,2026-05-03 12:59:41,0.37404580152671757,True
+47926128,Show HN: What happens when you load a webpage (Interactive),entertainment,31,8,otterwilde2,2026-05-03 12:59:41,0.25,False
+47978340,Show HN: Omar – A TUI for managing 100 coding agents,entertainment,15,2,karim7,2026-05-03 12:59:41,0.125,False
